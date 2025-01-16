@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-{
+{<br>
   "about 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
-  "life 🌱": "A passionate Developer & Blogger. from India🇮🇳", ...
-  "Working_on 💻": "Lauching My New Web Application Change Management System", ...
-  "looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", ...
-  "find_me_with 📩": "mujahidbcs92@gmail.com", ...
+  "life 🌱": "A passionate Developer & Blogger. from India🇮🇳", <br>
+  "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
+  "looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
+  "find_me_with 📩": "mujahidbcs92@gmail.com", <br>
 }
 
 <!--
