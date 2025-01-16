@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+{
+  "about 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech",
+  "life 🌱": "A passionate Developer & Blogger. from India🇮🇳",
+  "Working_on 💻": "Lauching My New Web Application Change Management System",
+  "looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines",
+  "find_me_with 📩": "mujahidbcs92@gmail.com",
+}
+
 <!--
 **mujahidbcs92/mujahidbcs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
