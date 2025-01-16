@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<code>
 {<br>
   "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
   "Life 🌱": "A passionate Developer & Blogger. from India🇮🇳", <br>
@@ -8,7 +9,7 @@
   "Find_me_with 📩": "mujahidbcs92@gmail.com", <br>
   "Website": "https://mujahidaliv.netlify.app/", <br>
 }
-
+</code>
 <!--
 **mujahidbcs92/mujahidbcs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
