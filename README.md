@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 {<br>
-  "about 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
-  "life 🌱": "A passionate Developer & Blogger. from India🇮🇳", <br>
+  "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
+  "Life 🌱": "A passionate Developer & Blogger. from India🇮🇳", <br>
   "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
-  "looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
-  "find_me_with 📩": "mujahidbcs92@gmail.com", <br>
+  "Looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
+  "Find_me_with 📩": "mujahidbcs92@gmail.com", <br>
+  "Website": "https://mujahidaliv.netlify.app/", <br>
 }
 
 <!--
