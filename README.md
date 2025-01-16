@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <code>
-{<br>
+{
   "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
   "Life 🌱": "A passionate Developer & Blogger. from India🇮🇳", <br>
   "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
