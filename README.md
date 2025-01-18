@@ -2,7 +2,7 @@
   <img src="hello.svg" style="width: 100%; height: 100%" alt="Click to see the source">
   <code>
     {
-      "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
+      "About 💁‍♂️": "Working as Web Developer @ 🏢Fabtentech", <br>
       "Life 🌱": "A passionate Developer & Blogger. born in India🇮🇳 and currently in UAE🇦🇪", <br>
       "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
       "Looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
