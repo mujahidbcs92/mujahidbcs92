@@ -1,5 +1,15 @@
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+  <code>
+    {
+      "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
+      "Life 🌱": "A passionate Developer & Blogger. born in India🇮🇳 and currently in UAE🇦🇪", <br>
+      "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
+      "Looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
+      "Find_me_with 📩": "mujahidbcs92@gmail.com", <br>
+      "Website": "https://mujahidaliv.netlify.app/", <br>
+    }
+  </code>
 </div>
 
 
