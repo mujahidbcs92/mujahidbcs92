@@ -21,7 +21,7 @@
 <!--
 ## Hi there 👋
 
-<h1>Hi there, my name is Mujahid<div class="hi">👋</div></h1>
+<h1>Hi, This is Mujahid<div class="hi">👋</div></h1>
         <code>
         {
           "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
