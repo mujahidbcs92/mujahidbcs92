@@ -24,9 +24,9 @@
 <h1>Hi, This is Mujahid<div class="hi">👋</div></h1>
         <code>
         {
-          "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabtentech", <br>
+          "About 💁‍♂️": "Hi 👋, This is Mujahid Ali, working as Web Developer @ 🏢Fabten Technologies", <br>
           "Life 🌱": "A passionate Developer & Blogger. born in India🇮🇳 and currently in UAE🇦🇪", <br>
-          "Working_on 💻": "Lauching My New Web Application Change Management System", <br>
+          "Working_on 💻": "Lauching My New Web Application Change Request Management", <br>
           "Looking_for 👯": "Learning New Technologies & Integrating with 👾AI Engines", <br>
           "Find_me_with 📩": "mujahidbcs92@gmail.com", <br>
           "Website": "https://mujahidaliv.netlify.app/", <br>
